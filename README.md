@@ -1,1 +1,2 @@
-# csc318-syah
+# csc318-syah<br/>
+THIS IS A HTML STATIC WEBSITE PROJECT.
