@@ -1,2 +1,2 @@
 # csc318-syah<br/>
-THIS IS A HTML STATIC WEBSITE PROJECT.
+This is a html static website project.
